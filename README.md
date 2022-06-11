@@ -1,16 +1,18 @@
-# ios_login
+<h1 align="center"> Hi 👋, I'm Hardik Gediya!</a></h1>
+<h3 align="center">A Flutter programmer who keeps you alive 😜</h3>
 
-A new Flutter project.
 
-## Getting Started
+- 🔭 &ensp;I’m currently working as **Flutter Developer**
+- 🌱 &ensp;I’m currently learning Flutter ❤️
+- 👯 &ensp;I’m looking to collaborate with other content creators
+- ⚡ &ensp;Fun fact: I love reading & podcasts
 
-This project is a starting point for a Flutter application.
+----------------------------------------------------------------------
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h1 align="center">Resume Builder </a></h1>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Make Quick and Beatiful Resume / CV in Just Follows Simples Steps ....**
+
+
+
